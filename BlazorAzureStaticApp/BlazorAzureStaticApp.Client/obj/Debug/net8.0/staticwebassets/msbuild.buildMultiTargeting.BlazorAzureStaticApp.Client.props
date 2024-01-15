@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorAzureStaticApp.Client.props" />
+</Project>
