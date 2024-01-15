@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\RyanLaClaire\\source\\repos\\BlazorAzureStaticApp\\BlazorAzureStaticApp.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\RyanLaClaire\\source\\repos\\BlazorAzureStaticApp\\BlazorAzureStaticApp.Client\\obj\\Release\\net8.0\\compressed\\df1s24mh0t.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\RyanLaClaire\\source\\repos\\BlazorAzureStaticApp\\BlazorAzureStaticApp.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\RyanLaClaire\\source\\repos\\BlazorAzureStaticApp\\BlazorAzureStaticApp.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.BlazorAzureStaticApp.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.BlazorAzureStaticApp.Client.props",
+      "PackagePath": "build\\BlazorAzureStaticApp.Client.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorAzureStaticApp.Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazorAzureStaticApp.Client.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorAzureStaticApp.Client.props",
+      "PackagePath": "buildTransitive\\BlazorAzureStaticApp.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

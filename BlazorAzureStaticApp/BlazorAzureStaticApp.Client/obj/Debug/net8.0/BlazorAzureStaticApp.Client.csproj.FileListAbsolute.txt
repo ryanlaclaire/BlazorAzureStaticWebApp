@@ -1026,3 +1026,4 @@ C:\Users\RyanLaClaire\source\repos\BlazorAzureStaticApp\BlazorAzureStaticApp.Cli
 C:\Users\RyanLaClaire\source\repos\BlazorAzureStaticApp\BlazorAzureStaticApp.Client\obj\Debug\net8.0\refint\BlazorAzureStaticApp.Client.dll
 C:\Users\RyanLaClaire\source\repos\BlazorAzureStaticApp\BlazorAzureStaticApp.Client\obj\Debug\net8.0\BlazorAzureStaticApp.Client.pdb
 C:\Users\RyanLaClaire\source\repos\BlazorAzureStaticApp\BlazorAzureStaticApp.Client\obj\Debug\net8.0\ref\BlazorAzureStaticApp.Client.dll
+C:\Users\RyanLaClaire\source\repos\BlazorAzureStaticApp\BlazorAzureStaticApp.Client\obj\Debug\net8.0\BlazorAzureStaticApp.Client.sourcelink.json

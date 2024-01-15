@@ -46,3 +46,6 @@ C:\Users\RyanLaClaire\source\repos\BlazorAzureStaticApp\BlazorAzureStaticApp\obj
 C:\Users\RyanLaClaire\source\repos\BlazorAzureStaticApp\BlazorAzureStaticApp\obj\Debug\net8.0\BlazorAzureStaticApp.pdb
 C:\Users\RyanLaClaire\source\repos\BlazorAzureStaticApp\BlazorAzureStaticApp\obj\Debug\net8.0\BlazorAzureStaticApp.genruntimeconfig.cache
 C:\Users\RyanLaClaire\source\repos\BlazorAzureStaticApp\BlazorAzureStaticApp\obj\Debug\net8.0\ref\BlazorAzureStaticApp.dll
+C:\Users\RyanLaClaire\source\repos\BlazorAzureStaticApp\BlazorAzureStaticApp\obj\Debug\net8.0\BlazorAzureStaticApp.sourcelink.json
+C:\Users\RyanLaClaire\source\repos\BlazorAzureStaticApp\BlazorAzureStaticApp\obj\Debug\net8.0\BlazorAzureStaticApp.RazorAssemblyInfo.cache
+C:\Users\RyanLaClaire\source\repos\BlazorAzureStaticApp\BlazorAzureStaticApp\obj\Debug\net8.0\BlazorAzureStaticApp.RazorAssemblyInfo.cs
